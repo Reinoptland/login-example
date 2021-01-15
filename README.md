@@ -10,11 +10,23 @@ Features
   - [x] react-router installeren
   - [x] Switch, Router, Route opzetten (vanuit de docs)
   - [x] exact path, 404 pagina gemaakt  
-- [ ] Paginas
-  - Home
-  - Signin
-  - Signup
-  - Profile
+- [x] Paginas
+  - [x] Home
+  - [x] SignIn -> 
+    - Bestandje maken 
+    - Component functie
+    - exporten 
+    - importeren in App
+    - Een route aanmaken voor je pagina & een url geven
+    - Een Link maken in de navbar
+  - [x] Signup
+  - [x] Profile
+- [ ] Github Koppelen aan dit project
+  - [x] Remote aanmaken op github
+  - [x] Remote koppelen
+  - [ ] Commit maken
+  - [ ] Pushen
+
     
 
 
