@@ -24,12 +24,28 @@ Features
 - [ ] Github Koppelen aan dit project
   - [x] Remote aanmaken op github
   - [x] Remote koppelen
-  - [ ] Commit maken
-  - [ ] Pushen
+  - [x] Commit maken
+  - [x] Pushen
+  
+## Formulieren maken
 
-    
-
-
+- [ ] Sign in
+  - [x] HTML
+    - [x] Component aanmaken
+    - [x] input velden: username, password
+    - [x] submit button
+    - [x] alle input velden moeten een "name" hebben
+  - [ ] Interacties programmeren  
+    - [ ] react-hook-form installeren
+    - [ ] useForm() -> importeren
+    - [ ] inputvelden registreren
+    - [ ] output loggen
+    - [ ] submitHandler maken
+  - [ ] Validatie & Feedback
+    - [ ] validatie (alles goed invullen)
+    - [ ] Stukje feedback
+- [ ] Sign up
+  
 Linken aan het eind
 
 - CSS youtube kaneel
