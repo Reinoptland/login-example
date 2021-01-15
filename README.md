@@ -29,7 +29,7 @@ Features
   
 ## Formulieren maken
 
-- [ ] Sign in
+- [x] Sign in
   - [x] HTML
     - [x] Component aanmaken
     - [x] input velden: username, password
@@ -41,12 +41,16 @@ Features
     - [x] inputvelden registreren
     - [x] output loggen
     - [x] submitHandler maken & toevoegen aan het form onSubmit
-  - [ ] Validatie & Feedback
-    - [ ] validatie (alles goed invullen)
-    - [ ] Stukje feedback
-- [ ] Sign up
+  - [x] Validatie & Feedback
+    - [x] validatie (alles goed invullen)
+    - [x] Stukje feedback
+- [x] Sign up
   
 Linken aan het eind
 
 - CSS youtube kaneel
+
+[web dev simplified](https://www.youtube.com/c/WebDevSimplified/search?query=display)
+
 - oh-my-zsh
+
