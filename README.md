@@ -35,12 +35,12 @@ Features
     - [x] input velden: username, password
     - [x] submit button
     - [x] alle input velden moeten een "name" hebben
-  - [ ] Interacties programmeren  
-    - [ ] react-hook-form installeren
-    - [ ] useForm() -> importeren
-    - [ ] inputvelden registreren
-    - [ ] output loggen
-    - [ ] submitHandler maken
+  - [x] Interacties programmeren  
+    - [x] react-hook-form installeren
+    - [x] useForm() -> importeren
+    - [x] inputvelden registreren
+    - [x] output loggen
+    - [x] submitHandler maken & toevoegen aan het form onSubmit
   - [ ] Validatie & Feedback
     - [ ] validatie (alles goed invullen)
     - [ ] Stukje feedback
